@@ -1,0 +1,5 @@
+myjob1 SUCCESS
+myjob2 SUCCESS
+myjob31 UNKNOWN
+myjob4 SUCCESS
+myjob5 SUCCESS

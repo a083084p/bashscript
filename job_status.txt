@@ -1,0 +1,9 @@
+myjob1 SU
+myjob2 SU
+myjob3 IO
+myjob4 SU
+myjob5 SU
+myjob6 TE
+myjob7 TE
+myjob8 SU
+myjob9 IO
